@@ -11,7 +11,7 @@ public class prime {
                 break;
             }
         }
-        if(isPrime == true) System.out.println("Prime");
+        if(isPrime) System.out.println("Prime");
         else System.out.println("Not a Prime");
     }
 }
